@@ -246,4 +246,5 @@ ModelManifest.xml
 /BmwApi/ApiSettings.settings
 /BmwApi/ApiSettings.Designer.cs
 *.pubxml
+*.config 
 "BmwApi/app.config" 
